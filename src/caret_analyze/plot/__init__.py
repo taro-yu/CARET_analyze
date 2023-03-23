@@ -25,7 +25,6 @@ __all__ = [
     'Plot',
     'PlotBase',
     'callback_graph',
-    'callback_sched',
     'chain_latency',
     'node_graph',
     'message_flow',
